@@ -1,0 +1,4 @@
+[databases]
+db-001.local ansible_user=rvergara
+
+
